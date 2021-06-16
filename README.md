@@ -1,6 +1,6 @@
 # supermall
 
-## Project setup
+## 1.项目简介
 ```
 npm install
 ```
