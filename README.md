@@ -19,12 +19,10 @@
 ### 3.目前所完成进度的截图
 ```
 ###### 1）首页部分
-![image](https://user-images.githubusercontent.com/68226979/122170265-f4b4fd00-ceb0-11eb-936f-2998d0fe6d98.png)
-![image](https://user-images.githubusercontent.com/68226979/122170320-072f3680-ceb1-11eb-8a6c-6adbb1328194.png)
+![image](https://user-images.githubusercontent.com/68226979/122170884-abb17880-ceb1-11eb-9c8b-1a0b39c3d10e.png)
+
 ###### 2）详情页部分
-![image](https://user-images.githubusercontent.com/68226979/122170610-56756700-ceb1-11eb-971c-6ff8ea2136ab.png)
-![image](https://user-images.githubusercontent.com/68226979/122170649-61c89280-ceb1-11eb-9894-6c2af3369a06.png)
-![image](https://user-images.githubusercontent.com/68226979/122170674-6e4ceb00-ceb1-11eb-89b7-a563cb9874bf.png)
+
 
 
 ```
